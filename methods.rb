@@ -1,5 +1,5 @@
-your_name = "Katie"
 def say_hello
+  your_name = "Katie"
   puts "Hello #{your_name}."
 end
 
